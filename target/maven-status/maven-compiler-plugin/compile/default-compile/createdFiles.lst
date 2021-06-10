@@ -1,0 +1,4 @@
+org/wanja/entity/State.class
+org/wanja/entity/County.class
+META-INF/panache-archive.marker
+org/wanja/GreetingResource.class
